@@ -15,7 +15,7 @@ All commands run in PowerShell from the `jack-o-intern` folder. `py` means `.\.v
 | # | Step | Expected result |
 |---|---|---|
 | 1.1 | Install Python 3.11 x64 from python.org with "Add to PATH" checked | `py -3.11 --version` prints 3.11.x |
-| 1.2 | `git clone` the repo, then `cd AutomationDev\jack-o-intern` | — |
+| 1.2 | `git clone https://github.com/nayhaq/jack-o-intern.git`, then `cd jack-o-intern` | — |
 | 1.3 | `powershell -ExecutionPolicy Bypass -File .\setup.ps1` | Ends with `SETUP OK` |
 | 1.4 | Open `.env`, paste `ANTHROPIC_API_KEY`, and set `HF_HUB_OFFLINE=1` | — |
 | 1.5 | Plug in the Jabra by USB. Run `py tools\list_devices.py` | Both `MIC_DEVICE` and `SPEAKER_DEVICE` lines show the Jabra |

@@ -1,0 +1,15 @@
+# Python 3.11 x64 on Windows. Versions pinned Oct 23, 2026.
+anthropic==2.1.0
+openwakeword==0.6.0
+onnxruntime==1.31.0
+faster-whisper==1.2.1
+piper-tts==1.8.0
+pyttsx3==2.99
+sounddevice==0.5.6
+webrtcvad-wheels==2.0.14.post1
+numpy==2.4.6
+scipy==1.17.1
+python-dotenv==1.2.4
+pytest
+# Only if falling back to Porcupine (WAKE_ENGINE=porcupine):
+# pvporcupine==4.0.3

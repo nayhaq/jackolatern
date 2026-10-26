@@ -10,7 +10,7 @@ All commands run in PowerShell from the `jack-o-intern` folder. `py` means `.\.v
 | 0.3 | HR: electronics next to the pumpkin are OK, and there's an outlet at the display spot | ☐ |
 | 0.4 | Claude Console: new API key named `jack-o-intern`, monthly spend cap about $20 | ☐ |
 | 0.5 | Jabra speakerphone and its USB cable reserved for Oct 26–30 | ☐ |
-| 0.6 | Create 36" Long by 24" wide cubicle.
+| 0.6 | Create 36" Long by 24" wide cubicle. | ☐ |
 
 ## 1. Laptop setup (once)
 | # | Step | Expected result |
